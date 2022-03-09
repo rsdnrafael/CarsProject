@@ -1,7 +1,7 @@
 # CarsProject
 Software to register, edit and visualize cars in a SQL Server database.
 
-Made in collaboration with Rafael Nascimento (rsdnrafael)
+Made in collaboration with  André Chamis(afchamis21)
 
 Coded with Python and GUI's made with QtDesigner
 
